@@ -214,7 +214,7 @@ function App() {
       id: 6,
       name: 'Bulldozer',
       description: 'Serviços pesados de terraplenagem, limpeza de terreno e desmatamento.',
-      image: '/images/bulldozer.jpg'
+      image: '/images/bulldozere.jpg'
     }
   ];
 
