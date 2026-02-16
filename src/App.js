@@ -278,7 +278,7 @@ function App() {
           <div className="logo-container">
             <div className="logo">
               <img 
-                src='/images/logo.png' 
+                src='/images/Logo.png' 
                 alt='ABA Transporte e Terraplanagem'
                 className="logo-image"
               />
