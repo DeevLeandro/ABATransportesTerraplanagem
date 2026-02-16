@@ -514,7 +514,7 @@ function App() {
               </div>
             </div>
             <div className="sobre-image">
-              <img src="/images/frota.jpeg" alt="Frota ABA Transporte e Terraplanagem" />
+              <img src="/images/Frota.jpeg" alt="Frota ABA Transporte e Terraplanagem" />
             </div>
           </div>
         </div>
